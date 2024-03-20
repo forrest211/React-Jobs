@@ -10,23 +10,33 @@ One of the aspects I am currently working on adding is an authentication system 
 This project uses a JSON-Server for a mock backend.
 
 # Install Dependencies
-`npm install`
+```bash
+npm install
+```
 
 # Run JSON-Server
 The server will run on http://localhost:8000
 
-`npm run server`
+```bash
+npm run server
+```
 
 # Run Vite Frontend
 React will run on http://localhost:3000
 
-`npm run dev`
+```bash
+npm run dev
+```
 
 # Build for Production
-`npm run build`
+```bash
+npm run build
+```
 
 # Preview Production Build
-`npm run preview`
+```bash
+npm run preview
+```
 
 
 That's it! The website is fully functional.
